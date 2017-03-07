@@ -1,0 +1,6 @@
+D:\Projects\War-CardGame\War-CardGame\bin\Debug\War-CardGame.exe.config
+D:\Projects\War-CardGame\War-CardGame\bin\Debug\War-CardGame.exe
+D:\Projects\War-CardGame\War-CardGame\bin\Debug\War-CardGame.pdb
+D:\Projects\War-CardGame\War-CardGame\obj\Debug\War-CardGame.csprojResolveAssemblyReference.cache
+D:\Projects\War-CardGame\War-CardGame\obj\Debug\War-CardGame.exe
+D:\Projects\War-CardGame\War-CardGame\obj\Debug\War-CardGame.pdb
